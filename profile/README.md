@@ -1,12 +1,24 @@
-## Hi there 👋
+# 🌟 항해99 7주차 7조 프로젝트 - I-sKream 🌟
 
-<!--
+## Introduce
 
-**Here are some ideas to get you started:**
+차후 업로드
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Skil Set
+
+| Front | Back | Database | Infra |
+| :---: | :---: | :---: | :---: |
+| <img src= "https://images.velog.io/images/jini_eun/post/107f5cfb-e97c-4c4c-b997-06098062e5b3/image.png" width = "200">| <img src="https://images.velog.io/images/galaxy/post/b501f325-1810-4e26-962e-e66ca0b94ca9/image.png" width = "200">| <img src="https://images.velog.io/images/bae_mung/post/2db5f978-3851-4b52-9242-8f1e9307755b/mysql.png" width = "200" >| <img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" width = "200" >|
+| React | Spring boot | MySQL | AWS |
+
+## Project Structure
+
+## How to use
+
+```
+1. Backend Repository의 readme에 따라 서버를 실행합니다.
+
+2. Frontend Repository의 readme에 따라 서버 url을 입력하고 실행합니다.
+
+3. Happy Enjoy!!    
+```
