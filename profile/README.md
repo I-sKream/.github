@@ -18,7 +18,9 @@
 ```
 1. Backend Repository의 readme에 따라 서버를 실행합니다.
 
-2. Frontend Repository의 readme에 따라 서버 url을 입력하고 실행합니다.
+2. Kream-data-crawler Repository의 readme에 따라 크롤링을 진행합니다.
 
-3. Happy Enjoy!!    
+3. Frontend Repository의 readme에 따라 서버 url을 입력하고 실행합니다.
+
+4. Happy Enjoy!!    
 ```
