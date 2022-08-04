@@ -2,7 +2,16 @@
 
 ## Introduce
 
-[![Video Label](http://img.youtube.com/vi/5uo-Y0xLciE/0.jpg)](https://youtu.be/5uo-Y0xLciE)
+<p align="center">
+
+<a href="https://youtu.be/5uo-Y0xLciE">
+  <img src="http://img.youtube.com/vi/5uo-Y0xLciE/0.jpg" alt="Deploy">
+</a>
+
+</p>
+
+
+
 
 ## Skill Set
 
