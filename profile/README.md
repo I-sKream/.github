@@ -2,9 +2,9 @@
 
 ## Introduce
 
-차후 업로드
+[![Video Label](http://img.youtube.com/vi/5uo-Y0xLciE/0.jpg)](https://youtu.be/5uo-Y0xLciE)
 
-## Skil Set
+## Skill Set
 
 | Front | Back | Database | Infra | Crawling |
 | :---: | :---: | :---: | :---: | :---: |
@@ -12,6 +12,8 @@
 | React | Spring boot | MySQL | AWS | Python |
 
 ## Project Structure
+
+<img width="1187" alt="image" src="https://user-images.githubusercontent.com/66009926/182807751-1a32a07c-f8f9-4588-9be8-869288e62861.png">
 
 ## How to use
 
