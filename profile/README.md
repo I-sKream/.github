@@ -10,7 +10,19 @@
 
 </p>
 
+## 🧑‍💻 Member
+<div align="center">
 
+
+
+| 🧑 Front | 🧑 Front | 🧑 Back | 🧑 Back | 🧑 Back |
+| :---: | :---: | :---: | :---: | :---: |
+| [<img src= "https://avatars.githubusercontent.com/u/103014298?v=4" width = "200">](https://github.com/keepinblazing)| [<img src="https://avatars.githubusercontent.com/u/104844327?v=4" width = "200">](https://github.com/slozche)| [<img src="https://avatars.githubusercontent.com/u/107831692?v=4" width = "200" >](https://github.com/ju-ei8ht)| [<img src="https://avatars.githubusercontent.com/u/88228147?v=4" width = "200">](https://github.com/projectHappyPi)| [<img src= "https://github.com/KumohDaseong/2021_SwBank/blob/main/readme_img/kimseonjin.png" width = "200">](https://github.com/gimseonjin)|
+| 박지민 | 이동현 | 박주영 | 박경민 |김선진 |
+ 
+
+
+</div>
 
 
 ## Skill Set
